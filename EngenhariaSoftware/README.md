@@ -15,9 +15,14 @@ Comentário:
 O trecho aborda que a engenharia de software se preocupe em escrever códigos de valor a longo prazo, para guiar nesse caminho traz alguns pilares que devemos considerar para projetar um código: tempo e mudança, escala e crescimento e tradeoffs e custos.
 
 Atividade 03: 
-citar e explicar 3 exemplos de Tradeoffs em software
-Tradeoff: Abrir mão de alguma vantagem no software para obter outra
-Linux x Windows
-iOS x Android
-Um dos comparativos entre iOS e Android é a possibilidade de customização dentro do software, o iOS não possui tantas opção de personalização profunda mas compensa tendo uma integração mais fluida de ecossistema, já o android possibilita essa maior liberdade de escolha do usuário, porém acaba abrindo mão do desempenho.
+3 exemplos de Tradeoffs em software (Abrir mão de alguma vantagem no software para obter outra)
+
+Linux x Windows:
+O Linux consome consideravelmente menos memória comparado ao Windows, sendo possível ser usado até em computadores mais antigos, porém tem como contra ponto a sua dificuldade de aprendizado para usar o sistema (principalmente dependendo da versão escolhida), enquanto o Windows já é mais intuitivo para o usuário, mas demanda mais potência do hardware para rodar de forma fluida. 
+
+iOS x Android:
+Um dos comparativos entre iOS e Android é a possibilidade de customização dentro do software, o iOS não possui tantas opção de personalização profunda mas compensa tendo uma integração mais fluida de ecossistema, já o Android possibilita essa maior liberdade de escolha do usuário, porém acaba abrindo mão do desempenho em certa medida.
+
+Banco de Dados Local x Banco de Dados em Nuvem:
+O Local oferece maior segurança sobre os dados juntamente com um maior controle, porém a manutenção desse armazenamento possui custos mais elevados, o que dificulta também as possibilidades futuras de escalabilidade. Já o em Nuvem tem os custos reduzidos, principalmente os iniciais, porém necessita da internet para ter acesso aos dados o que não garante o controle total, podendo também ser menos seguro.
 
